@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Siva Sai Yadav Mudugandla  
-### GenAI Engineer • LLMs • AI Agents • End‑to‑End AI Systems
+### GenAI Engineer | LLMs | AI Agents | Writing GenAI articles on Medium
 
 I build practical, production‑ready Generative AI systems that combine **LLMs, agentic workflows, automation, and scalable engineering**.  
 My work focuses on turning research into real, usable products — from autonomous pipelines to intelligent assistants and AI‑powered applications.
