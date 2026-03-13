@@ -37,6 +37,20 @@ A fully automated pipeline that fetches, ranks, summarizes, and emails the lates
 🔗 Repo: https://github.com/sivasaiyadav8143/ai-research-digest
 
 ---
+## 📝 Featured Articles (Medium)
+
+I regularly write about **LLMs, GenAI, agentic workflows, and practical AI engineering**.  
+Here are some of my recent articles:
+
+🔹 **[System Prompts Explained: How Understanding Them Makes You a Better AI Communicator](https://medium.com/towards-artificial-intelligence/system-prompts-explained-how-understanding-them-makes-you-a-better-ai-communicator-b9ed72a0f971)**
+
+🔹 **[The 3‑Stage Training Pipeline Behind ChatGPT, Claude, and Gemini (Explained Simply)](https://medium.com/towards-artificial-intelligence/the-3-stage-training-pipeline-behind-chatgpt-claude-and-gemini-explained-simply-bbd45b1f7368)**  
+
+🔹 **[Word Embeddings in NLP: From Bag-of-Words to Transformers (Part 1)](https://medium.com/towards-artificial-intelligence/word-embeddings-in-nlp-from-bag-of-words-to-transformers-part-1-4688627a728f)**  
+
+👉 **Read all articles:** https://medium.com/@sivasai-yadav
+
+---
 
 ## 📚 Education
 - **Applied Generative AI** — Johns Hopkins University  
