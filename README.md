@@ -54,7 +54,7 @@ A fully automated pipeline that fetches, ranks, summarizes, and emails the lates
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, PySpark, SQL
+**Languages:** Python, PySpark, SQL  
 **AI/ML:** LLMs, Transformers, RAG, NLP, Deep Learning  
 **Frameworks:** PyTorch, Gradio, FastAPI  
 **Platforms:** Hugging Face, GroqCloud, Google Colab  
