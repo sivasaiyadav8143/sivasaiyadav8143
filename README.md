@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Siva Sai Yadav Mudugandla  
+![Profile Views](https://komarev.com/ghpvc/?username=sivasaiyadav8143&color=green)
 ### GenAI Engineer | LLMs & AI Agents | Writing GenAI articles on Medium
 
 I build practical, production‑ready Generative AI systems that combine **LLMs, agentic workflows, automation, and scalable engineering**.  
