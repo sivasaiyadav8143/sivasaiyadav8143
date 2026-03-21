@@ -72,7 +72,7 @@ I actively contribute to **prompts.chat**, where I publish high‑quality prompt
 ## 📚 Education
 - **Applied Generative AI** — Johns Hopkins University  
 - **PGP in AI & ML** — University of Texas at Austin  
-- **B.Tech in IT**
+- **B.Tech in Information Technology**
 
 ---
 
