@@ -34,8 +34,10 @@ I currently work as **Assistant Vice President (Senior Data Analyst) at Citi, Lo
 ### 🔹 **AI Research Digest — Autonomous Research Summarizer**  
 A fully automated pipeline that fetches, ranks, summarizes, and emails the latest AI research papers using **Groq + Llama 3.1**, deployed on **Hugging Face Spaces**.  
 **Tech:** LLMs, Agents, Groq, Gradio, SendGrid, APScheduler  
-🔗 Live App: https://huggingface.co/spaces/SivaSai8143/ai-research-digest  
-🔗 Repo: https://github.com/sivasaiyadav8143/ai-research-digest
+🔗 Live App: [![Live App](https://img.shields.io/badge/HuggingFace-Live_App-yellow)](https://huggingface.co/spaces/SivaSai8143/ai-research-digest)
+
+🔗 Repo: [![Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/sivasaiyadav8143/ai-research-digest)
+
 
 ---
 ## 📝 Featured Articles (Medium)
@@ -49,7 +51,21 @@ Here are some of my recent articles:
 
 🔹 **[The 3‑Stage Training Pipeline Behind ChatGPT, Claude, and Gemini (Explained Simply)](https://medium.com/towards-artificial-intelligence/the-3-stage-training-pipeline-behind-chatgpt-claude-and-gemini-explained-simply-bbd45b1f7368)**  
 
-👉 **Read all articles:** https://medium.com/@sivasai-yadav
+👉 **Read all articles:** [![Medium](https://img.shields.io/badge/Medium-Profile-black)](https://medium.com/@sivasai-mudugandla)
+
+
+---
+
+## ✨ Prompt Engineering Contributions
+
+I actively contribute to **prompts.chat**, where I publish high‑quality prompts focused on:
+
+- Productivity and workflow optimisation  
+- Coding assistance, debugging, and code improvement  
+- Learning and concept explanation  
+
+🔗 **My prompts.chat profile:**  [![Prompts.chat](https://img.shields.io/badge/Prompts.chat-Profile-blueviolet)](https://prompts.chat/@sivasaiyadav8143)
+
 
 ---
 
