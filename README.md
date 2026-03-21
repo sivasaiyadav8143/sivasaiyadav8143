@@ -51,7 +51,7 @@ Here are some of my recent articles:
 
 🔹 **[The 3‑Stage Training Pipeline Behind ChatGPT, Claude, and Gemini (Explained Simply)](https://medium.com/towards-artificial-intelligence/the-3-stage-training-pipeline-behind-chatgpt-claude-and-gemini-explained-simply-bbd45b1f7368)**  
 
-👉 **Read all articles:** [![Medium](https://img.shields.io/badge/Medium-Profile-black)](https://medium.com/@sivasai-mudugandla)
+👉 **Read all articles:** [![Medium](https://img.shields.io/badge/Medium-Profile-black)]([https://medium.com/@sivasai-mudugandla](https://medium.com/@sivasai-yadav))
 
 
 ---
