@@ -87,7 +87,7 @@ I actively contribute to **prompts.chat**, where I publish high‑quality prompt
 ## 🛠️ Tech Stack
 **Languages:** Python, PySpark, SQL  
 **AI/ML:** LLMs, Transformers, RAG, NLP, Deep Learning  
-**Frameworks:** PyTorch, Gradio, FastAPI  
+**Frameworks & Orchestration:** PyTorch, Gradio, FastAPI, LangChain, LangGraph, LangSmith  
 **Platforms:** Hugging Face, GroqCloud, Google Colab  
 **Tools:** Git, VS Code, SendGrid, APScheduler  
 
