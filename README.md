@@ -32,12 +32,19 @@ I currently work as **Assistant Vice President (Senior Data Analyst) at Citi, Lo
 ## 🔥 Featured Projects
 
 ### 🔹 **AI Research Digest — Autonomous Research Summarizer**  
-A fully automated pipeline that fetches, ranks, summarizes, and emails the latest AI research papers using **Groq + Llama 3.1**, deployed on **Hugging Face Spaces**.  
-**Tech:** LLMs, Agents, Groq, Gradio, SendGrid, APScheduler  
-🔗 Live App: [![Live App](https://img.shields.io/badge/HuggingFace-Live_App-yellow)](https://huggingface.co/spaces/SivaSai8143/ai-research-digest)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/sivasaiyadav8143/auto-dev-agent)
 
-🔗 Repo: [![Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/sivasaiyadav8143/ai-research-digest)
+[![HuggingFace Demo](https://img.shields.io/badge/HuggingFace-Live_App-yellow)](https://huggingface.co/spaces/SivaSai8143/auto-dev-agent)
 
+### 🔹 **AutoDevAgent — Autonomous Code Generation, Execution, Debugging, and Testing**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/sivasaiyadav8143/ai-research-digest)
+
+[![HuggingFace Demo](https://img.shields.io/badge/HuggingFace-Live_App-yellow)](https://huggingface.co/spaces/SivaSai8143/ai-research-digest)
+
+### 🔹 **PDF RAG Chatbot**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/sivasaiyadav8143/pdf-rag-chatbot)
+
+[![HuggingFace Demo](https://img.shields.io/badge/HuggingFace-Live_App-yellow)](https://huggingface.co/spaces/SivaSai8143/pdf-rag-chatbot)
 
 ---
 ## 📝 Featured Articles (Medium)
