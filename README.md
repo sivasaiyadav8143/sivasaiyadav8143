@@ -31,12 +31,12 @@ I currently work as **Assistant Vice President (Senior Data Analyst) at Citi, Lo
 
 ## 🔥 Featured Projects
 
-### 🔹 **AI Research Digest — Autonomous Research Summarizer**  
+### 🔹 **AutoDevAgent — Autonomous Code Generation, Execution, Debugging, and Testing** 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/sivasaiyadav8143/auto-dev-agent)
 
 [![HuggingFace Demo](https://img.shields.io/badge/HuggingFace-Live_App-yellow)](https://huggingface.co/spaces/SivaSai8143/auto-dev-agent)
 
-### 🔹 **AutoDevAgent — Autonomous Code Generation, Execution, Debugging, and Testing**  
+### 🔹 **AI Research Digest — Autonomous Research Summarizer** 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/sivasaiyadav8143/ai-research-digest)
 
 [![HuggingFace Demo](https://img.shields.io/badge/HuggingFace-Live_App-yellow)](https://huggingface.co/spaces/SivaSai8143/ai-research-digest)
