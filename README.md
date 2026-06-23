@@ -85,7 +85,7 @@ I actively contribute to **prompts.chat**, where I publish high‑quality prompt
 
 ## 🌐 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/sivasai-mudugandla  
-- **Medium (GenAI Articles):** https://medium.com/@sivasai-yadav  
+- **Medium:** https://medium.com/@sivasai-yadav  
 - **Hugging Face:** https://huggingface.co/SivaSai8143  
 - **GitHub:** https://github.com/sivasaiyadav8143  
 - **prompts.chat:** https://prompts.chat/@sivasaiyadav8143
